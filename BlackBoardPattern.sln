@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.779
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackboardPattern", "BlackBoardPattern\BlackboardPattern.csproj", "{5B0DEFA3-5010-45FA-A845-34FAEB7F9C61}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternBlackboard", "PatternBlackboard\PatternBlackboard.csproj", "{9BA2D68C-6DCE-483F-8BAB-EEB729EB6F68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5B0DEFA3-5010-45FA-A845-34FAEB7F9C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5B0DEFA3-5010-45FA-A845-34FAEB7F9C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5B0DEFA3-5010-45FA-A845-34FAEB7F9C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5B0DEFA3-5010-45FA-A845-34FAEB7F9C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BA2D68C-6DCE-483F-8BAB-EEB729EB6F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA2D68C-6DCE-483F-8BAB-EEB729EB6F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA2D68C-6DCE-483F-8BAB-EEB729EB6F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA2D68C-6DCE-483F-8BAB-EEB729EB6F68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
